@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@500&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.body{
+    margin-left: 600px;
+    position: relative;
+    top: 40px;
+    border: 1px solid rgb(174, 169, 169);
+    width: 300px;
+    height: 399px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px 5px rgba(221,221,221,1);
+}
+
+.search{
+    margin-left: 520px;
+    position: relative;
+    top: 80px;
+}
+
+input{
+    padding: 16px;
+    border-radius: 6px;
+    width: 460px;
+    color: #000;
+    border: none;
+}
+
+
+
+button{
+    padding: 16px;
+    border-radius: 6px;
+    background-color:  #ED3052;
+    color: white;
+    border: none;
+    
+}
+
+.header{
+    width: 100%;
+    background-color:  #0DCAF0;
+    height: 200px;
+    box-shadow: 5px;
+    box-shadow: 0 6px 4px -4px rgba(211,211,211,1);
+}
+
+h3{
+    color: white;
+    margin-left: 130px;
+    position: relative;
+    top: -30px;
+    font-family: Rubik;
+    
+}
+.card-text{
+    margin-left: 15px;
+}
